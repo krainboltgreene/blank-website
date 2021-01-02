@@ -20,15 +20,14 @@
 
 title: The Booth Project
 description: >-
-  The Booth Project is holding accountable those who run The Lincoln Project
-  because really it's wild how bad these guys are at their job.
+  This webpage is devoted to @hcjustin and @unrulybabs's move!
 baseurl: "/" # the subpath of your site, e.g. /blog
 domain: boothproject.us
 url: "https://www.boothproject.us" # the base hostname & protocol for your site, e.g. http://example.com
-google_analytics_id: G-VTVJPBX0HN
+google_analytics_id: xxxxx
 fonts: Montserrat&family=Open+Sans
-theme_color: "#b82d28"
-theme_color_background: "#fafafa"
+theme_color: "#a970ff"
+theme_color_background: "#000000"
 authors:
   - name: Kurtis Rainbolt-Greene
     role: Programmer
