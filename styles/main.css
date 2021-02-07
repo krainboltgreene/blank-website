@@ -1,0 +1,19 @@
+body {
+  background-color: #18181b;
+}
+h1, h2, h3, h4 {
+  color: #efeff1;
+  font-family: Roobert, Inter, Helvetica Neue, Helvetica, Arial, sans-serif
+}
+p, li {
+  font-family: Inter, Roobert, Helvetica Neue, Helvetica, Arial, sans-serif;
+}
+body > header {
+  background-color: #9147ff;
+  text-align: center;
+  text-transform: capitalize;
+}
+body > header h1 {
+  margin: 0;
+  padding: 1rem;
+}
